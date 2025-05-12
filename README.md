@@ -1,5 +1,4 @@
  Earthquakes Dashboard
-![Earthquakes Dashboard Preview](image/image.jpg)
 
 **Earthquakes Dashboard** is a cutting-edge web application that brings real-time seismic data visualization to your fingertips. Explore global seismic activity through dynamic maps, intuitive charts, and powerful customizable filters.
 
