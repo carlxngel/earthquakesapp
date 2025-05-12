@@ -31,7 +31,7 @@ df = None
 @st.cache_data(ttl=3600)
 def load_data():
     try:
-        df = pd.read_csv(r"C:\Users\cmoli\OneDrive\Documentos\GitHub\Earthquackes-App\data\all_month.csv")
+        df = pd.read_csv(r"C:\Users\cmoli\OneDrive\Documentos\GitHub\Earthquackes-App\data\all_month 1.csv")
         
         # Convertir columnas de fecha a datetime Y ELIMINAR ZONA HORARIA
         df['time'] = pd.to_datetime(df['time']).dt.tz_localize(None)
