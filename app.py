@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # Título y descripción
-st.title("🌍 Dashboard Interactivo de Actividad Sísmica")
+st.title("🌍 SismoDash")
 st.markdown("""
 Este dashboard permite explorar datos sísmicos de un mes completo. 
 Utiliza los filtros y selectores en la barra lateral para personalizar tu análisis.
